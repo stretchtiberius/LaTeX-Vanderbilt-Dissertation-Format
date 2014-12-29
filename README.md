@@ -17,4 +17,4 @@ Also included is a minimal working example of the template which illustrates sev
 
 More than likely I will not merge in any change that impacts the overall format of the template. First and foremost, this template will adhere to Vanderbilt University's guidelines for theses and dissertations. However, feel free to fork this and modify it to meet the guidelines of your own university or academic department. At the very least it should serve as a fairly robust starting point. 
 
-Vanderbilt Univeristy's Dissertation and Thesis Guidelines can be found [here](http://www.vanderbilt.edu/gradschool/current_students/pdf/ThesisGuide.pdf).
+Vanderbilt Univeristy's Dissertation and Thesis Guidelines can be found [here](http://www.vanderbilt.edu/gradschool/form_locator/thesis_and_dissertation_submission/thesis_guide.pdf).
